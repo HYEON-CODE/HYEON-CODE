@@ -8,7 +8,7 @@
 
 🎓 Aegis, Dankook University Development and Security Central Club(2022. 03 ~ ing)
 
-📑 Certificate
+## 📑 Certificate
 
 인터넷정보관리사 2급(2016.04)
 
@@ -20,7 +20,7 @@
 
 정보처리운용기능사(2018.07)
 
-🔧 Technology Stack
+## 🔧 Technology Stack
 
 HTML
 
