@@ -5,11 +5,27 @@
  (2021. 02 ~ 2021. 09)
 
 🏫 Dankook Univ. Software Engineering '19 ( 2019.03 ~ ing )
- 
+
+🎓 Aegis, Dankook University Development and Security Central Club(2022. 03 ~ ing)
+
 📑 Certificate
+
+인터넷정보관리사 2급(2016.04)
+
+리눅스마스터 2급(2016-05)
 
 네트워크관리사 2급(2017.05)
 
 정보처리기능사(2018.02)
 
 정보처리운용기능사(2018.07)
+
+🔧 Technology Stack
+
+HTML
+
+CSS
+
+C++
+
+PYTHON3
