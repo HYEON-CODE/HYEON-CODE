@@ -7,6 +7,9 @@
 🏫 Dankook Univ. Software Engineering '19 ( 2019.03 ~ ing )
  
 📑 Certificate
+
 네트워크관리사 2급(2017.05)
+
 정보처리기능사(2018.02)
+
 정보처리운용기능사(2018.07)
