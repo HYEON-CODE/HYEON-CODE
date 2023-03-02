@@ -12,6 +12,8 @@
 🥉 DKU 경소톤(경영 + 소프트웨어 해커톤)에서 반려 식물 앱 "Plantory" 백엔드 개발 (우수상 수상)
 
 👨‍🎓 신한투자증권 프로 디지털 아카데미 수료 ( 2022.12~2023.02, ⌛207h+ )
+
+🌲 [친환경 주식 마일리지 계좌 프로젝트 백엔드 개발](https://github.com/Shinhan-FinalProject/eco_Project)(Django)
 </div> 
 <div align=center>
 	<h2>📚 Tech Stack 📚</h2>
@@ -37,8 +39,6 @@
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rhksgus20)](https://solved.ac/rhksgus20)
  
 <div align=center><h2>📑 Certificate </h2>
-
-인터넷정보관리사 2급(2016.04)
 
 리눅스마스터 2급(2016-05)
 
