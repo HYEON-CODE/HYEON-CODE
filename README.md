@@ -8,8 +8,6 @@
  (2021. 02 ~ 2021. 09)
 
 🏫 Dankook Univ. Software Engineering '19 ( 2019.03 ~ ing )
-
-🎓 Aegis, Dankook University Development and Security Central Club(2022. 03 ~ ing)
 	
 🥉 DKU 경소톤(경영 + 소프트웨어 해커톤)에서 반려 식물 앱 "Plantory" 백엔드 개발 (우수상 수상)
 
