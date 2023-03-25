@@ -14,6 +14,8 @@
 👨‍🎓 신한투자증권 프로 디지털 아카데미 수료 ( 2022.12~2023.02, ⌛207h+ )
 
 🌲 [친환경 주식 마일리지 계좌 프로젝트 백엔드 개발](https://github.com/Shinhan-FinalProject/eco_Project)(Django)
+	
+🦁 단국대 멋쟁이사자처럼 11기 참여중
 </div> 
 <div align=center>
 	<h2>📚 Tech Stack 📚</h2>
