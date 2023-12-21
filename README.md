@@ -15,7 +15,10 @@
 
 🌲 [친환경 주식 마일리지 계좌 프로젝트 백엔드 개발](https://github.com/Shinhan-FinalProject/eco_Project)(Django)
 	
-🦁 단국대 멋쟁이사자처럼 11기 참여중
+🦁 단국대 멋쟁이사자처럼 11기 참여
+
+🇨🇳 경기도청년사다리 프로그램 푸단대학교 어학연수 수료( 2023.08, ⌛25day )
+
 </div> 
 <div align=center>
 	<h2>📚 Tech Stack 📚</h2>
